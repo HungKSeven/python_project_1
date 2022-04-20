@@ -1,0 +1,112 @@
+use_skill(pos_target,pos_start,runtime,alpha,screen,pos_role)
+process_skill( screen, pos_role, rects_room)
+=================================================================
+1. one person
+2. pygame
+3. 7 month
+4. challenge
+5. for gamer
+6. cant win
+7.?
+---------------------------------------------------------------
+1. it just a game?
+2.
+3.
+4.
+5. your choice?
+6. are you ready?
+7. thanks and good luck
+===================================================================
+1 case = 1 n_skill + 2 m_skill + 1 ulit_skill
+lv1 = 1 n_skill + 1 m_skill
+lv2 = 1 n_skill + 2 m_skill
+lv3 = 1 n_skill + 2 m_skill + 3 ulti_skill
+==================================================================
+game play 2-2:
+tao ra buc tranh hay chinh sua buc tranh?? chinh sua
+-> noi dung co san: chu de cua noi dung?
+do= lang mang
+vang=
+xanh=kinh di
+xanh lam=
+tim=bi an
+=====================================================================
+khong cho lai qua gan cac u sung
+=======================================================================
+skill case 1: y tuong: su gian du | vien da power stone do: hien thuc | su pha huy: chay no | boom
+1. ban thuong
+2. tu nang luong ban 1 chieu voi suc manh lon
+3. dat boom hoac
+4.tao khoi chan
+------------------------------------------------------------------
+skill case 2: y tuong: su kiem soat | vien da power stone vang: tri tue| dien giat | mind control
+1. ban thuong
+2. ban ra cac tu dien cung voi u sung tao ra cac vung sat thuong gay te liet
+3. ban ra vien dan gay nhieu tin hieu dieu khien cua nguoi theo quy luat
+4. cac tu dien va u sung phong dien
+-----------------------------------------------------------------
+skill case 3: y tuong: thoi gian | vien da power stone xanh luc: thoi gian | chat doc
+1. ban thuong
+2. ban ra boom thoi gian loai 1: tao ra nhung vung thoi gian bi cham: anh huong toi van toc va gia toc cua cua main role
+3. ban ra boom thoi gian loai 2: quay nguoc thoi gian: dua main role ve vi tri dap boom mau cua u sung tro lai
+3. an mon
+--------------------------------------------------------------------
+skill case 4: khong gian | vien da power stone xanh luc: khong gian| bang gia |
+1. ban thuong
+2. u sung dich chuyen khong gian
+3. nhot main role trong
+4. ghe sat thuong trong 1 vung
+-----------------------------------------------------------------
+skill case 5: y tuong: suc manh | vien da power stone tim: suc manh | trong luc | bong toi
+1. ban thuong
+2. vung tang trong luong, tang gia toc roi
+3. ban vien dan sieu sat thuong
+4. lo den
+----------------------------------------------------------------
+lai gan se bi hat vang
+=====================================================================
+main role 5 skill co ban
+-----------------------------------------------------------------------
+0.ban thuong
+OR1 :
+skill-1-2|v
+skill-1-3|v
+------------------------------------------------------------------------
+1.tao khoi v
+OR1 :
+skill-1-pass| v
+skill-1-0| v
+skill-1-1| v
+skill-1-2| v
+skill-1-3| v
+----------------------------------------------------------------------
+2.mind control
+--------------------------------------------------------------------------
+3. ngung dong thoi gian
+-----------------------------------------------------------------------
+4. dich chuyen
+----------------------------------------------------------------------
+5. ban thuong sieu suc manh
+====================================================================
+
+do vang xanh luc xanh lam tim trang
+1  2    3        4        5   6
+do vs tim
+xanh luc vs xanh lam
+vang vs trang
+4 cach dat khoi lap phuong dua vao mat huong len do xanh lam xanh luc tim
+value_direct                                     1  2        3    4   5
+
+cube(mat man hinh, mat huong len)
+
+xoay 1 khoi
+up:gia tri mat hien tai
+
+trang:0
+direct=1,2,3,4
+1 do
+2 xanh la
+3 tim
+4 xanh duong
+
+l l l l l l l l
